@@ -1,4 +1,4 @@
-ONLY FOR EDGE/JUSTE POUR EDGE
+DOES NOT WORK ON FIREFOX/NE MARCHE PAS SUR FIREFOX
 -----------------------------
 other browsers are not supporters
 
