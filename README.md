@@ -13,6 +13,7 @@ Fonctionnalités principales
 Affichage dynamique de sites web : Entrez des URLs dans les champs de saisie, et les sites web correspondants seront affichés dans les iframes.
 Deux colonnes : La colonne de gauche affiche une URL et son iframe associé, tandis que la colonne de droite gère les autres URLs et iframes.
 Interface utilisateur : Les zones de saisie et les boutons sont placés en haut à gauche de chaque colonne pour une utilisation facile.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 OPEN SOURCE PROJECT
 
