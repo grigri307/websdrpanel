@@ -1,3 +1,8 @@
+ONLY FOR EDGE/JUSTE POUR EDGE
+-----------------------------
+other browsers are not supporters
+
+
 PROJET OPEN SOURCE
 
 pour l'installation:
