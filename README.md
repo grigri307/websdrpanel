@@ -1,4 +1,4 @@
-![image](https://img.shields.io/badge/radio-%20websdr-blue)
+![image](https://img.shields.io/badge/radio-%20websdr-blue) ![image](https://img.shields.io/badge/web-%20panel-blue) ![image](https://img.shields.io/badge/html-%2040.7%25-green) [image](https://img.shields.io/badge/css-%2059.3%25-orange)
 
 
 DOES NOT WORK ON FIREFOX/NE MARCHE PAS SUR FIREFOX
